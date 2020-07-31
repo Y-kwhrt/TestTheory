@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.example.demo.CalcTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.023 s <<< FAILURE! - in com.example.demo.CalcTest
+com.example.demo.CalcTest  Time elapsed: 0.021 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+
+	at com.example.demo.CalcTest.テスト前処理(CalcTest.java:16)
+
